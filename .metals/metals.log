@@ -1,0 +1,3 @@
+2020.06.10 18:09:38 INFO  started: Metals version 0.9.0 in workspace '/Users/anu/code/react/monsters-rolodex'
+2020.06.10 18:09:41 INFO  time: initialize in 2.38s
+2020.06.10 18:09:42 WARN  no build tool detected in workspace '/Users/anu/code/react/monsters-rolodex'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
